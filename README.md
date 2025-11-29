@@ -4,7 +4,7 @@ Este proyecto se centra en demostrar la importancia fundamental de la limpieza d
 # Contexto y Análisis Detallado
 La metodología aplicada y el proceso de pensamiento detrás de cada decisión de limpieza —especialmente cómo se descubrieron y mitigaron los problemas de calidad de la fuente— están documentados en detalle en mi artículo de Medium:
 
-    [Añade aquí el ENLACE COMPLETO a tu artículo de Medium]
+    https://medium.com/@mateov55/de-estudiante-a-analista-aprendiendo-data-cleaning-con-sql-40e56c6e3d83
 
 # Herramientas utilizadas
 
