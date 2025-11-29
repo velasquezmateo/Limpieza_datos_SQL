@@ -14,7 +14,7 @@ Herramientas Utilizadas
 
   Lenguaje de Consulta: SQL
 
-  Herramientas Auxiliares: (Ej. MySQL Workbench, DBeaver, etc.)
+  Herramientas Auxiliares: (Ej. MySQL Workbench, CSV file)
 
 # Metodología
 Se evidencia el data original (data_raw) en un formato csv que subí a la base de datos de MySQL Workbench para su limpieza:
