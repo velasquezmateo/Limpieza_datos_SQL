@@ -36,6 +36,4 @@ El código completo y comentado que implementa esta metodología se encuentra en
 
     data_cleaning.sql
 
-Esta versión ahora prioriza la metodología y el valor de la limpieza sobre la preparación para el análisis.
 
-¿Qué te parece? ¿Quisieras que te ayude con el proceso de subir este archivo .sql junto con el README.md a tu repositorio de GitHub?
